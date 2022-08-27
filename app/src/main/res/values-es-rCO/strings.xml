@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mi primera app</string>
+    <string name="mensaje_de_bienvenida">Bienvenido a mi primera app</string>
+    <string name="descripcionImagen">tux image linux</string>
+</resources>
